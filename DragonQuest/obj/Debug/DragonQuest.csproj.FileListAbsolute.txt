@@ -1,0 +1,9 @@
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\bin\Debug\DragonQuest.exe.config
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.csprojResolveAssemblyReference.cache
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.Form1.resources
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.Properties.Resources.resources
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.csproj.GenerateResource.Cache
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\bin\Debug\DragonQuest.exe
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\bin\Debug\DragonQuest.pdb
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.exe
+c:\users\981864\documents\visual studio 2013\Projects\DragonQuest\DragonQuest\obj\Debug\DragonQuest.pdb
